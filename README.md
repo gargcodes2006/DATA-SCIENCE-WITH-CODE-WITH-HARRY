@@ -1,4 +1,4 @@
-# DATA-SCIENCE-WITH-CODE-WITH-HARRY
+# Data-Science-with-Code-with-Harry
 My learning journey through CodeWithHarry's Job Ready Data Science course — Python, NumPy, Pandas, SQL, Statistics, Machine Learning, projects, exercises, and notes.
 # 🚀 Job Ready Data Science — CodeWithHarry
 
